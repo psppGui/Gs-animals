@@ -1,0 +1,68 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:'Segoe UI', sans-serif;
+    background:#14532d;
+    color:#ecfdf5;
+
+    display:flex;
+    flex-direction:column; 
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+
+.logo{
+    text-align:center;
+    margin-bottom:15px;
+}
+
+.logo img{
+    width:180px;
+}
+
+.apresentacao-sobre{
+    background:#052e16;
+    padding:25px 30px;
+    border-radius:22px;
+    box-shadow:0 10px 25px rgba(0,0,0,0.25);
+    display:flex;
+    flex-direction:column;
+    gap:12px;
+    width:100%;
+    max-width:520px;
+    text-align:center;
+    text-decoration: none; 
+    color: inherit;
+}
+
+
+.apresentacao-sobre h1{
+    font-size:26px;
+}
+
+.apresentacao-sobre h2{
+    font-size:16px;
+    color:#bbf7d0;
+}
+
+.apresentacao-sobre p{
+    font-size:14px;
+    color:#d1fae5;
+    line-height:1.5;
+}
+
+
+.apresentacao-sobre header{
+    margin-bottom:5px;
+}
+
+#gitGuilherme{
+    text-decoration: none; /* Remove o sublinhado */
+    color: inherit;  
+}
