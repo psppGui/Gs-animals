@@ -47,15 +47,16 @@ npm start
 ```
 VetApp/
 │
-├── app/
-│   ├── index.html
-│   ├── sobre.html
-│   ├── css/
-│   ├── js/
-│   └── img/
+├── aplicativo
+│   ├── estilos/
+│   ├── imagens/
+│   ├── paginas/
+│   ├── scripts/
+│   
 │
 ├── main.js
 ├── package.json
+├──package-lock.json
 └── README.md
 ```
 
