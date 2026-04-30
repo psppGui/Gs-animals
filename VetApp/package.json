@@ -1,0 +1,14 @@
+{
+  "name":"VetPet ",
+  "version":"1.0.0",
+  "description": "Aplicativo para veterinários e pai de pets",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Guilherme da Silva",
+  "license":"ISC",
+  "dependencies": {
+    "electron": "^41.3.0"
+  }
+}
