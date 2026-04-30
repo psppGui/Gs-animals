@@ -31,7 +31,7 @@ O **GS Animals** é um aplicativo simples e intuitivo que permite:
 git clone https://github.com/seu-usuario/gs-animals.git
 
 # Acesse a pasta
-cd gs-animals
+cd VetApp
 
 # Instale as dependências
 npm install
